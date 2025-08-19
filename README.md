@@ -1,1 +1,5 @@
-# me-in-markdown
+# Introduction
+
+### My name is Ayaan Moosani. I attend Chatsworth High School. I am in 10th grade. I am also in the G-STEAM magnet program at chatsworth. I am excited to attend Mr. Aiello's AP Computer Science class.
+### I have lots of hobbys. I like playing basketball and soccer. I also like watching basketball and soccer. My favorite teams are the Golden State Warriors for basketball and for soccer, Liverpool. I also like the LA Rams for football. I also love playing video games like Valorant, R6, Minecraft, and Rocket League.
+### Over The Summer, I had a lot of fun. I traveled to Chicago, Illinois to meet my grandparents. It was a lot of fun and we went to see places like The Bean, Michigan Lake, and the Sears Tower. It was also a fun time hanging out with family. I also traveled to Bannf, Canada. I
